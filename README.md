@@ -5,7 +5,6 @@ Gostaria de compartilhar meu mais recente projeto, no qual desenvolvi um código
 Após a extração dos dados, armazenei essas informações em um Data Lake fictício, explorando técnicas de manipulação de dados. Em seguida, utilizei SQL para tratar e transformar esses dados, organizando-os para facilitar a futura análise em um Data Warehouse.
 
 ![Pipeline](https://github.com/user-attachments/assets/232ac03c-b004-4dd9-9326-b7509075212c)
-![Pipeline](https://github.com/user-attachments/assets/9ca482c3-2908-4da0-ad6c-110cd38603e2)
 
 💡 Objetivos do Projeto:
 
