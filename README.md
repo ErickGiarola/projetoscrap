@@ -4,6 +4,7 @@ Gostaria de compartilhar meu mais recente projeto, no qual desenvolvi um código
 
 Após a extração dos dados, armazenei essas informações em um Data Lake fictício, explorando técnicas de manipulação de dados. Em seguida, utilizei SQL para tratar e transformar esses dados, organizando-os para facilitar a futura análise em um Data Warehouse.
 
+![Pipeline](https://github.com/user-attachments/assets/232ac03c-b004-4dd9-9326-b7509075212c)
 ![Pipeline](https://github.com/user-attachments/assets/9ca482c3-2908-4da0-ad6c-110cd38603e2)
 
 💡 Objetivos do Projeto:
@@ -12,11 +13,11 @@ Coleta de Dados: Iniciei o projeto com a extração de informações relevantes 
 
 Criação de um Data Lake: Após a coleta, os dados brutos foram armazenados em um Data Lake fictício. Construí uma pipeline visando minimizar erros e garantir que as informações fossem salvas de maneira eficiente. Essa etapa é crucial, pois permite a centralização dos dados em seu formato original.
 
-![Print_DL](https://github.com/user-attachments/assets/57734e9b-12b8-477d-83a0-2880d934d62c)
+![Print_DL](https://github.com/user-attachments/assets/a91ee594-f199-4180-a184-dc8e6f29b3f9)
 
 Processamento de Dados: Em seguida, utilizei SQL para limpar e organizar os dados coletados. Essa fase incluiu a remoção de duplicatas, o tratamento de valores ausentes e a transformação dos dados em formatos apropriados. O objetivo foi preparar essas informações para serem inseridas em um Data Warehouse (DW), onde estarão estruturadas de forma a facilitar análises futuras.
 
-![Print_DW](https://github.com/user-attachments/assets/b5fe9f57-92bb-4b69-90d0-6402dcc9038c)
+![Print_DW](https://github.com/user-attachments/assets/b98d8737-ee12-4549-932a-759be05eddb2)
 
 Análise e Visualização: Após a organização dos dados, estou planejando utilizar ferramentas de visualização, como Tableau, para criar dashboards interativos. Isso permitirá uma análise mais simples e de fácil compreensão.
 
